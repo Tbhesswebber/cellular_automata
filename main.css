@@ -15,7 +15,7 @@ div {
 .container {
   width: 80vw;
   height: 100%;
-  background-color: #52AA5E;
+  background-color: #2D3142;
 }
 
 .row {
@@ -37,5 +37,5 @@ div {
 
 .inactive {
   display: inline-block;
-  background-color: #388659;
+  background-color: #EF8354;
 }
